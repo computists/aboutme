@@ -1,0 +1,21 @@
+body {
+    background-color: FAF8F1;
+}
+
+.img1 {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.side {
+    width:auto;
+    display: inline-block;
+    margin : 10px;
+    
+}
+
+table {
+    border-spacing: 20px;
+}
